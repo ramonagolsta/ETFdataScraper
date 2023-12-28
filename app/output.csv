@@ -1,0 +1,371 @@
+Symbol,Name,Assets
+AAPL,Apple Inc.,9.20%
+MSFT,Microsoft Corporation,8.53%
+AMZN,"Amazon.com, Inc.",4.86%
+AVGO,Broadcom Inc.,4.18%
+META,Meta Platforms Inc. Class A,3.84%
+TSLA,"Tesla, Inc.",3.78%
+NVDA,NVIDIA Corporation,3.73%
+GOOGL,Alphabet Inc. Class A,2.56%
+GOOG,Alphabet Inc. Class C,2.50%
+COST,Costco Wholesale Corporation,2.36%
+ADBE,Adobe Incorporated,2.15%
+PEP,"PepsiCo, Inc.",1.84%
+AMD,"Advanced Micro Devices, Inc.",1.83%
+NFLX,"Netflix, Inc.",1.70%
+INTC,Intel Corporation,1.68%
+AAPL,Apple Inc.,12.98%
+MSFT,Microsoft Corporation,12.95%
+AMZN,"Amazon.com, Inc.",6.24%
+NVDA,NVIDIA Corporation,5.05%
+GOOGL,Alphabet Inc. Class A,3.62%
+META,Meta Platforms Inc. Class A,3.34%
+GOOG,Alphabet Inc. Class C,3.04%
+TSLA,"Tesla, Inc.",2.98%
+LLY,Eli Lilly and Company,2.32%
+V,Visa Inc. Class A,1.84%
+MA,Mastercard Incorporated Class A,1.60%
+HD,"Home Depot, Inc.",1.44%
+ADBE,Adobe Incorporated,1.28%
+COST,Costco Wholesale Corporation,1.21%
+CRM,"Salesforce, Inc.",1.07%
+AAPL,Apple Inc.,22.26%
+MSFT,Microsoft Corporation,20.91%
+NVDA,NVIDIA Corporation,4.16%
+AVGO,Broadcom Inc.,3.36%
+ADBE,Adobe Incorporated,2.27%
+CRM,"Salesforce, Inc.",2.01%
+ACN,Accenture Plc Class A,1.72%
+CSCO,"Cisco Systems, Inc.",1.61%
+AMD,"Advanced Micro Devices, Inc.",1.61%
+ORCL,Oracle Corporation,1.57%
+INTC,Intel Corporation,1.54%
+INTU,Intuit Inc.,1.32%
+IBM,International Business Machines Corporation,1.20%
+QCOM,QUALCOMM Incorporated,1.19%
+NOW,"ServiceNow, Inc.",1.16%
+MSFT,Microsoft Corporation,22.30%
+AAPL,Apple Inc.,22.04%
+AVGO,Broadcom Inc.,5.18%
+NVDA,NVIDIA Corporation,4.48%
+ADBE,Adobe Incorporated,2.97%
+CRM,"Salesforce, Inc.",2.82%
+AMD,"Advanced Micro Devices, Inc.",2.46%
+ACN,Accenture Plc Class A,2.42%
+CSCO,"Cisco Systems, Inc.",2.21%
+INTC,Intel Corporation,2.20%
+INTU,Intuit Inc.,1.90%
+ORCL,Oracle Corporation,1.84%
+QCOM,QUALCOMM Incorporated,1.74%
+TXN,Texas Instruments Incorporated,1.66%
+IBM,International Business Machines Corporation,1.61%
+AAPL,Apple Inc.,12.64%
+MSFT,Microsoft Corporation,12.43%
+AMZN,"Amazon.com, Inc.",6.22%
+NVDA,NVIDIA Corporation,5.38%
+GOOGL,Alphabet Inc. Class A,3.73%
+META,Meta Platforms Inc. Class A,3.51%
+GOOG,Alphabet Inc. Class C,3.17%
+TSLA,"Tesla, Inc.",3.12%
+AVGO,Broadcom Inc.,2.20%
+UNH,UnitedHealth Group Incorporated,2.15%
+LLY,Eli Lilly and Company,2.03%
+V,Visa Inc. Class A,1.84%
+MA,Mastercard Incorporated Class A,1.57%
+COST,Costco Wholesale Corporation,1.33%
+ADBE,Adobe Incorporated,1.22%
+N/A,U.S. Dollar,32.70%
+N/A,United States Treasury Bills 0.0% 04-APR-2024,6.47%
+AAPL,Apple Inc.,2.63%
+MSFT,Microsoft Corporation,2.44%
+N/A,United States Treasury Bills 0.0% 21-MAR-2024,2.40%
+N/A,United States Treasury Bills 0.0% 13-JUN-2024,2.37%
+N/A,United States Treasury Bills 0.0% 08-FEB-2024,2.17%
+N/A,United States Treasury Bills 0.0% 04-JAN-2024,1.94%
+N/A,United States Treasury Bills 0.0% 05-MAR-2024,1.68%
+N/A,United States Treasury Bills 0.0% 18-APR-2024,1.67%
+N/A,United States Treasury Bills 0.0% 13-FEB-2024,1.59%
+N/A,United States Treasury Bills 0.0% 25-JAN-2024,1.45%
+AMZN,"Amazon.com, Inc.",1.39%
+N/A,United States Treasury Bills 0.0% 22-FEB-2024,1.21%
+N/A,United States Treasury Bills 0.0% 09-JAN-2024,1.21%
+AAPL,Apple Inc.,15.12%
+MSFT,Microsoft Corporation,14.98%
+AMZN,"Amazon.com, Inc.",7.38%
+NVDA,NVIDIA Corporation,4.42%
+GOOGL,Alphabet Inc. Class A,4.39%
+META,Meta Platforms Inc. Class A,4.01%
+GOOG,Alphabet Inc. Class C,3.69%
+TSLA,"Tesla, Inc.",3.24%
+LLY,Eli Lilly and Company,2.84%
+V,Visa Inc. Class A,2.27%
+MA,Mastercard Incorporated Class A,1.90%
+COST,Costco Wholesale Corporation,1.48%
+ADBE,Adobe Incorporated,1.46%
+MCD,McDonald\'s Corporation,1.15%
+ACN,Accenture Plc Class A,1.13%
+META,Meta Platforms Inc. Class A,23.59%
+GOOGL,Alphabet Inc. Class A,12.57%
+GOOG,Alphabet Inc. Class C,10.67%
+NFLX,"Netflix, Inc.",4.66%
+CMCSA,Comcast Corporation Class A,4.54%
+CHTR,"Charter Communications, Inc. Class A",4.52%
+EA,Electronic Arts Inc.,4.36%
+TMUS,"T-Mobile US, Inc.",4.33%
+VZ,Verizon Communications Inc.,4.26%
+DIS,Walt Disney Company,4.26%
+T,AT&T Inc.,4.25%
+TTWO,"Take-Two Interactive Software, Inc.",3.45%
+WBD,"Warner Bros. Discovery, Inc. Series A",3.37%
+OMC,Omnicom Group Inc,2.29%
+LYV,"Live Nation Entertainment, Inc.",1.75%
+AAPL,Apple Inc.,16.89%
+MSFT,Microsoft Corporation,16.57%
+GOOGL,Alphabet Inc. Class A,5.24%
+NVDA,NVIDIA Corporation,4.56%
+GOOG,Alphabet Inc. Class C,4.46%
+META,Meta Platforms Inc. Class A,3.84%
+AVGO,Broadcom Inc.,3.52%
+ADBE,Adobe Incorporated,2.58%
+CRM,"Salesforce, Inc.",2.56%
+AMD,"Advanced Micro Devices, Inc.",2.33%
+INTC,Intel Corporation,2.16%
+INTU,Intuit Inc.,1.73%
+ORCL,Oracle Corporation,1.66%
+QCOM,QUALCOMM Incorporated,1.65%
+TXN,Texas Instruments Incorporated,1.57%
+NVDA,NVIDIA Corporation,19.41%
+TSM,"Taiwan Semiconductor Manufacturing Co., Ltd. Sponsored ADR",9.06%
+AVGO,Broadcom Inc.,6.17%
+AMD,"Advanced Micro Devices, Inc.",5.40%
+INTC,Intel Corporation,5.26%
+ASML,ASML Holding NV ADR,4.92%
+LRCX,Lam Research Corporation,4.57%
+AMAT,"Applied Materials, Inc.",4.56%
+QCOM,QUALCOMM Incorporated,4.49%
+ADI,"Analog Devices, Inc.",4.44%
+TXN,Texas Instruments Incorporated,4.39%
+MU,"Micron Technology, Inc.",3.99%
+SNPS,"Synopsys, Inc.",3.75%
+KLAC,KLA Corporation,3.64%
+CDNS,"Cadence Design Systems, Inc.",3.36%
+AVGO,Broadcom Inc.,8.63%
+AMD,"Advanced Micro Devices, Inc.",8.36%
+NVDA,NVIDIA Corporation,7.44%
+INTC,Intel Corporation,6.41%
+QCOM,QUALCOMM Incorporated,6.39%
+MU,"Micron Technology, Inc.",4.04%
+NXPI,NXP Semiconductors NV,4.01%
+ON,ON Semiconductor Corporation,3.99%
+TXN,Texas Instruments Incorporated,3.95%
+LRCX,Lam Research Corporation,3.92%
+MRVL,"Marvell Technology, Inc.",3.87%
+AMAT,"Applied Materials, Inc.",3.87%
+MCHP,Microchip Technology Incorporated,3.86%
+KLAC,KLA Corporation,3.83%
+ADI,"Analog Devices, Inc.",3.83%
+COIN,"Coinbase Global, Inc. Class A",10.73%
+TSLA,"Tesla, Inc.",7.48%
+PATH,"UiPath, Inc. Class A",7.25%
+ROKU,"Roku, Inc. Class A",6.98%
+ZM,"Zoom Video Communications, Inc. Class A",6.87%
+SQ,"Block, Inc. Class A",6.42%
+RBLX,Roblox Corp. Class A,4.26%
+CRSP,CRISPR Therapeutics AG,4.11%
+TWLO,"Twilio, Inc. Class A",3.98%
+U,"Unity Software, Inc.",3.84%
+SHOP,"Shopify, Inc. Class A",3.03%
+HOOD,"Robinhood Markets, Inc. Class A",2.95%
+DKNG,"DraftKings, Inc. Class A",2.93%
+TDOC,"Teladoc Health, Inc.",2.91%
+NTLA,"Intellia Therapeutics, Inc.",2.74%
+AAPL,Apple Inc.,13.75%
+MSFT,Microsoft Corporation,13.46%
+AMZN,"Amazon.com, Inc.",6.67%
+NVDA,NVIDIA Corporation,5.65%
+GOOGL,Alphabet Inc. Class A,4.06%
+META,Meta Platforms Inc. Class A,3.79%
+GOOG,Alphabet Inc. Class C,3.46%
+TSLA,"Tesla, Inc.",3.42%
+AVGO,Broadcom Inc.,2.36%
+LLY,Eli Lilly and Company,2.33%
+V,Visa Inc. Class A,2.00%
+UNH,UnitedHealth Group Incorporated,1.96%
+MA,Mastercard Incorporated Class A,1.70%
+HD,"Home Depot, Inc.",1.69%
+COST,Costco Wholesale Corporation,1.44%
+N/A,U.S. Dollar,19.53%
+AVGO,Broadcom Inc.,6.96%
+AMD,"Advanced Micro Devices, Inc.",6.73%
+NVDA,NVIDIA Corporation,5.99%
+INTC,Intel Corporation,5.16%
+QCOM,QUALCOMM Incorporated,5.15%
+MU,"Micron Technology, Inc.",3.25%
+NXPI,NXP Semiconductors NV,3.23%
+ON,ON Semiconductor Corporation,3.22%
+TXN,Texas Instruments Incorporated,3.18%
+LRCX,Lam Research Corporation,3.16%
+AMAT,"Applied Materials, Inc.",3.12%
+MRVL,"Marvell Technology, Inc.",3.12%
+MCHP,Microchip Technology Incorporated,3.11%
+KLAC,KLA Corporation,3.09%
+AAPL,Apple Inc.,21.74%
+MSFT,Microsoft Corporation,20.59%
+NVDA,NVIDIA Corporation,4.17%
+AVGO,Broadcom Inc.,3.97%
+ADBE,Adobe Incorporated,2.18%
+CRM,"Salesforce, Inc.",2.09%
+AMD,"Advanced Micro Devices, Inc.",1.79%
+ACN,Accenture Plc Class A,1.78%
+CSCO,"Cisco Systems, Inc.",1.63%
+INTC,Intel Corporation,1.60%
+INTU,Intuit Inc.,1.40%
+ORCL,Oracle Corporation,1.37%
+QCOM,QUALCOMM Incorporated,1.28%
+TXN,Texas Instruments Incorporated,1.22%
+IBM,International Business Machines Corporation,1.18%
+CRM,"Salesforce, Inc.",8.67%
+MSFT,Microsoft Corporation,8.19%
+ADBE,Adobe Incorporated,7.97%
+INTU,Intuit Inc.,7.48%
+ORCL,Oracle Corporation,7.21%
+NOW,"ServiceNow, Inc.",4.38%
+PANW,"Palo Alto Networks, Inc.",4.13%
+SNPS,"Synopsys, Inc.",3.50%
+CDNS,"Cadence Design Systems, Inc.",3.31%
+CRWD,"CrowdStrike Holdings, Inc. Class A",2.58%
+ROP,"Roper Technologies, Inc.",2.57%
+WDAY,"Workday, Inc. Class A",2.51%
+ADSK,"Autodesk, Inc.",2.32%
+TEAM,Atlassian Corp Class A,1.68%
+FTNT,"Fortinet, Inc.",1.68%
+AMZN,"Amazon.com, Inc.",9.33%
+META,Meta Platforms Inc. Class A,7.67%
+GOOGL,Alphabet Inc. Class A,5.36%
+CRM,"Salesforce, Inc.",5.07%
+NFLX,"Netflix, Inc.",4.74%
+GOOG,Alphabet Inc. Class C,4.56%
+CSCO,"Cisco Systems, Inc.",4.52%
+SNOW,"Snowflake, Inc. Class A",3.08%
+PYPL,"PayPal Holdings, Inc.",3.08%
+ANET,"Arista Networks, Inc.",3.01%
+ABNB,"Airbnb, Inc. Class A",2.89%
+WDAY,"Workday, Inc. Class A",2.81%
+TEAM,Atlassian Corp Class A,2.71%
+DDOG,Datadog Inc Class A,2.43%
+DASH,"DoorDash, Inc. Class A",2.16%
+N/A,U.S. Dollar,27.57%
+AAPL,Apple Inc.,5.75%
+MSFT,Microsoft Corporation,5.33%
+AMZN,"Amazon.com, Inc.",3.03%
+AVGO,Broadcom Inc.,2.61%
+META,Meta Platforms Inc. Class A,2.40%
+TSLA,"Tesla, Inc.",2.36%
+NVDA,NVIDIA Corporation,2.33%
+GOOGL,Alphabet Inc. Class A,1.60%
+GOOG,Alphabet Inc. Class C,1.57%
+COST,Costco Wholesale Corporation,1.48%
+ADBE,Adobe Incorporated,1.35%
+N/A,United States Treasury Bills 0.0% 28-MAR-2024,1.30%
+PEP,"PepsiCo, Inc.",1.15%
+AMD,"Advanced Micro Devices, Inc.",1.15%
+AAPL,Apple Inc.,13.71%
+MSFT,Microsoft Corporation,11.39%
+AMZN,"Amazon.com, Inc.",6.00%
+NVDA,NVIDIA Corporation,4.70%
+TSLA,"Tesla, Inc.",3.73%
+GOOGL,Alphabet Inc. Class A,3.19%
+GOOG,Alphabet Inc. Class C,3.19%
+META,Meta Platforms Inc. Class A,2.83%
+AVGO,Broadcom Inc.,1.62%
+PEP,"PepsiCo, Inc.",1.12%
+COST,Costco Wholesale Corporation,1.06%
+ADBE,Adobe Incorporated,1.01%
+CSCO,"Cisco Systems, Inc.",0.95%
+NFLX,"Netflix, Inc.",0.87%
+AMD,"Advanced Micro Devices, Inc.",0.80%
+N/A,U.S. Dollar,12.06%
+AAPL,Apple Inc.,5.77%
+MSFT,Microsoft Corporation,5.22%
+N/A,United States Treasury Bills 0.0% 28-SEP-2023,3.35%
+N/A,United States Treasury Bills 0.0% 21-SEP-2023,3.35%
+AMZN,"Amazon.com, Inc.",2.67%
+NVDA,NVIDIA Corporation,2.37%
+GOOGL,Alphabet Inc. Class A,1.63%
+TSLA,"Tesla, Inc.",1.47%
+META,Meta Platforms Inc. Class A,1.47%
+GOOG,Alphabet Inc. Class C,1.41%
+BRK.B,Berkshire Hathaway Inc. Class B,1.34%
+N/A,United States Treasury Bills 0.0% 24-NOV-2023,1.11%
+UNH,UnitedHealth Group Incorporated,1.00%
+JPM,JPMorgan Chase & Co.,0.97%
+AAPL,Apple Inc.,19.91%
+MSFT,Microsoft Corporation,19.59%
+NVDA,NVIDIA Corporation,4.53%
+AVGO,Broadcom Inc.,3.74%
+2330,"Taiwan Semiconductor Manufacturing Co., Ltd.",3.46%
+ASML,ASML Holding NV,2.30%
+005930,"Samsung Electronics Co., Ltd.",2.28%
+ADBE,Adobe Incorporated,2.07%
+CRM,"Salesforce, Inc.",1.97%
+AMD,"Advanced Micro Devices, Inc.",1.71%
+ACN,Accenture Plc Class A,1.69%
+CSCO,"Cisco Systems, Inc.",1.54%
+INTC,Intel Corporation,1.54%
+INTU,Intuit Inc.,1.33%
+ORCL,Oracle Corporation,1.28%
+N/A,U.S. Dollar,6.68%
+AAPL,Apple Inc.,6.54%
+MSFT,Microsoft Corporation,6.07%
+AMZN,"Amazon.com, Inc.",3.14%
+NVDA,NVIDIA Corporation,2.78%
+GOOGL,Alphabet Inc. Class A,1.93%
+META,Meta Platforms Inc. Class A,1.73%
+TSLA,"Tesla, Inc.",1.68%
+GOOG,Alphabet Inc. Class C,1.67%
+BRK.B,Berkshire Hathaway Inc. Class B,1.60%
+UNH,UnitedHealth Group Incorporated,1.18%
+JPM,JPMorgan Chase & Co.,1.13%
+JNJ,Johnson & Johnson,1.11%
+XOM,Exxon Mobil Corporation,1.07%
+V,Visa Inc. Class A,0.97%
+NVDA,NVIDIA Corporation,8.43%
+GOOGL,Alphabet Inc. Class A,8.23%
+MSFT,Microsoft Corporation,8.05%
+AAPL,Apple Inc.,7.92%
+META,Meta Platforms Inc. Class A,7.30%
+AVGO,Broadcom Inc.,4.60%
+ADBE,Adobe Incorporated,2.52%
+CRM,"Salesforce, Inc.",2.40%
+AMD,"Advanced Micro Devices, Inc.",2.15%
+ACN,Accenture Plc Class A,2.05%
+NFLX,"Netflix, Inc.",1.99%
+INTC,Intel Corporation,1.97%
+CSCO,"Cisco Systems, Inc.",1.89%
+INTU,Intuit Inc.,1.62%
+ORCL,Oracle Corporation,1.56%
+ANSS,"ANSYS, Inc.",2.92%
+INTC,Intel Corporation,2.62%
+MU,"Micron Technology, Inc.",2.56%
+TEAM,Atlassian Corp Class A,2.55%
+META,Meta Platforms Inc. Class A,2.54%
+GFS,GlobalFoundries Inc.,2.52%
+FTNT,"Fortinet, Inc.",2.47%
+AMD,"Advanced Micro Devices, Inc.",2.47%
+MRVL,"Marvell Technology, Inc.",2.46%
+INTU,Intuit Inc.,2.46%
+LRCX,Lam Research Corporation,2.46%
+ADBE,Adobe Incorporated,2.45%
+CDW,CDW Corporation,2.45%
+QCOM,QUALCOMM Incorporated,2.43%
+AMAT,"Applied Materials, Inc.",2.43%
+TWTR,Twitter Inc,12.88%
+TSLA,Tesla Inc,12.17%
+AAPL,Apple Inc,9.99%
+FB,Facebook Inc,9.82%
+GOOGL,Alphabet Inc,9.74%
+BABA,Alibaba Group Holding Ltd,9.55%
+NFLX,Netflix Inc,9.18%
+AMZN,Amazon.com Inc,9.15%
+BIDU,Baidu Inc,8.97%
+NVDA,NVIDIA Corp,8.55%
